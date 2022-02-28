@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes nuntioes or, The negotiation of Seignior Panzani, Seignior Con, &amp;c. resident here in England with the Queen, and treating about the alteration of religion with the Archbishop of Canterbury, and his adherents, in the yeares of our Lord, 1634, 1635, 1636, &amp;c. Together with a letter to a nobleman of this kingdome, concerning the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90854</idno>
+            <idno type="STC">Wing P2937</idno>
+            <idno type="STC">Thomason E97_4</idno>
+            <idno type="EEBO-CITATION">99859477</idno>
+            <idno type="PROQUEST">99859477</idno>
+            <idno type="VID">155826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155826)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E97[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes nuntioes or, The negotiation of Seignior Panzani, Seignior Con, &amp;c. resident here in England with the Queen, and treating about the alteration of religion with the Archbishop of Canterbury, and his adherents, in the yeares of our Lord, 1634, 1635, 1636, &amp;c. Together with a letter to a nobleman of this kingdome, concerning the same.</title>
+                  <author>D. T.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Introductory letter signed: D. T.</note>
+                  <note>Annotation on Thomason copy: "Aprill 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conn, George, d. 1640 --  Early works to 1800.</term>
+               <term>Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term>Panzani, Gregorio, d. 1662 --  Early works to 1800.</term>
+               <term>Catholic Church --  England --  Early works to 1800.</term>
+               <term>Catholic Church --  Wales --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155826:1" rendition="simple:additions"/>
+            <p>THE POPES NUNTIOES OR, The Negotiation of Seignior <hi>PANZANI,</hi> Seignior <hi>CON,</hi> &amp;c. Reſident here in England with the Queen, and treating about the Al<g ref="char:EOLhyphen"/>teration of Religion WITH The Archbiſhop of <hi>Canterbury,</hi> and his Adherents, in the yeares of our Lord, 1634, 1635, 1636, &amp;c.</p>
+            <p>
+               <hi>Together</hi> With a Letter to a Nobleman of this Kingdome, concerning the ſame.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. B.</hi> 1643.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:155826:2"/>
+            <pb facs="tcp:155826:2"/>
+            <head>A Letter from a private Gen<g ref="char:EOLhyphen"/>tleman, to a perſon of Honour, con<g ref="char:EOLhyphen"/>cerning the Negotiation of the <hi>Nuntioes,</hi> which followeth.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have read with a ſtudious eye this Diſ<g ref="char:EOLhyphen"/>courſe, which your Lordſhip commended to my obſervation; and I muſt confeſſe, that I was not more ſorry that <hi>England</hi> loved <hi>Rome</hi> ſo well, than I am glad the affection betwixt them is thus diſcovered: For although the marks of the Beaſt for ſome yeares paſt were legible e<g ref="char:EOLhyphen"/>nough in every corner of this Land, and the Clergy ge<g ref="char:EOLhyphen"/>nerally could ſpeak <hi>Italian,</hi> or were apt to learn it; yet ſuch a ſpirit of Security did poſſeſſe us, and hope and fear had ſuch influence upon our wretched ſoules, that wee could not ſee that alteration which wee lookt upon; and the Goſpell was almoſt fled away before we beleeved it had any wings. But the great and myſterious Riddle is now unfoulded, and thoſe Curtaines of <hi>Peace</hi> and <hi>Charity</hi> which did ſo ſpeciouſly cover this <hi>Work of Darkneſſe,</hi> are drawn from off it. He that will not underſtand that <hi>Ti<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Thames</hi> were almoſt in one Channell, ſhall have my vote to graze upon the Mountains, and forfeit his rea<g ref="char:EOLhyphen"/>ſonable
+<pb facs="tcp:155826:3"/>ſoule, which in ſo clear a day will not diſcern the waters running. I beleeve your Lordſhip with more boldneſſe will concurre in this ſentence, when you ſhall hear that the <hi>Venetian Embaſſadour</hi> was the Author of this little Story, A man, whoſe Religion would not permit him to favour the reformed Churches, or to blaſt his own with any falſhood, eſpecially in an accompt to a wiſe State which had employed him; A man of deare ac<g ref="char:EOLhyphen"/>quaintance with <hi>Panzani,</hi> and although no maſter buil<g ref="char:EOLhyphen"/>der, yet a pious ſervant and ſpectator of the work: When you ſhall alſo hear that the <hi>Italian Copy</hi> was firſt tranſla<g ref="char:EOLhyphen"/>ted into <hi>French</hi> for the great Cardinals ſatisfaction; and I do not doubt it hath good acquaintance in the <hi>Spaniſh Court,</hi> and could ſpeak that language long ago. I could proceed further, but that the limits of a letter cannot re<g ref="char:EOLhyphen"/>ceive my thoughts concerning this argument, and my eyes behold ſo much light, that they are altogether dazled with the luſtre. A ſhort time (if God permit) ſhall pro<g ref="char:EOLhyphen"/>duce ſuch a volume, which may prove me not only a lover of the truth, but in all lawfull Commands</p>
+            <closer>
+               <signed>Your Lordſhips moſt obedient Servant, D. T.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155826:3"/>
+            <head>THE POPES NVNTIOES: <hi>OR,</hi> The Negotiation of Seignior <hi>Panzani,</hi> Seignior <hi>Con,</hi> &amp;c. reſident here in <hi>England</hi> with the Queen, and treating about alteration of RELIGION WITH The <hi>Archbiſhop</hi> of <hi>Canterbury</hi> and his Adherents in the yeers of our LORD, 1634. 1635. 1636. &amp;c.</head>
+            <p>
+               <seg rend="decorInit">R</seg>ELIGION having a great power over the ſpirit of Man, and an in<g ref="char:EOLhyphen"/>comparable force thereupon to produce effects extraordinarie; ſome men embrace it with ſin<g ref="char:EOLhyphen"/>ceritie of affection as a way lead<g ref="char:EOLhyphen"/>ing to true felicitie: but others eſteeme more of it for the generall profit which redounds from it to humane ſocietie, then for any other excellence diſ<g ref="char:EOLhyphen"/>cerned in it. Princes, and ſage Polititians are of this latter ſort of men, giving reverence to it for the
+<pb n="2" facs="tcp:155826:4"/>commoditie which they receive from it; as well knowing by experience of all ages, that there is no<g ref="char:EOLhyphen"/>thing more proper to preſerve men in concord, and render the people obedient to the higher Powers. Therefore the moſt adviſed and reſerved Princes, though in their ſouls they make no account of Re<g ref="char:EOLhyphen"/>ligion, yet in appearance they alwayes endeavour to ſeeme extreamly religious, and inflict exemplary puniſhment on ſuch as attempt any thing againſt the puritie of it: foreſeeing with great prudence, that it is impoſſible any alteration of Religion ſhould happen without trouble and diſtraction in the State. And indeed in theſe latter times we ſee thoſe States and Realms which have prevented di<g ref="char:EOLhyphen"/>viſions of Religion have maintained themſelves in peace and tranquillitie, as <hi>Italy,</hi> and <hi>Spaine:</hi> where<g ref="char:EOLhyphen"/>as in others on the contrary where the introducing of new opinions has divided the people, there con<g ref="char:EOLhyphen"/>ſequently Arms have been taken up by one againſt the other; witneſſe <hi>France</hi> and <hi>Germany.</hi> And though ſome Countreys have undergone change of Reli<g ref="char:EOLhyphen"/>gion without interruption of their Repoſe; yet if we examine the reaſon of it, we ſhall find the ſaid change to have ſprong from ſome extraordinarie cauſe, rather then from diverſitie of opinion a<g ref="char:EOLhyphen"/>mongſt the people The ſeparation of <hi>England</hi> from
+<pb n="3" facs="tcp:155826:4"/>the Church of <hi>Rome</hi> was not cauſed ſo much by the deſire of reforming Religion, as from animoſities conceived by <hi>Hen.</hi> 8. againſt the Court of <hi>Rome,</hi> by reaſon of its difficult conſenting to the diſſolution of his marriage with <hi>Katharine</hi> of <hi>Caſtile.</hi> And though under <hi>Edward</hi> his Sonne the Reformation was received by publick conſent of the whole Realme, it was grounded upon the ſame cauſe, and no obſtinate opinion of new doctrine; for under the Reigne of Queen <hi>Mary</hi> the Kingdom was as eaſily reconciled to the Church of <hi>Rome</hi> again, as it had been ſeparated before. Queen <hi>Elizabeth</hi> being come to the Crown, and her intereſts ſwaying her to fa<g ref="char:EOLhyphen"/>vour the Reformation, ſhe found her people as far diſpoſed to embrace it as they had been forward to reject it, in her Siſters time; and ſo the length of her Reigne bringing in a permanence of form, ſhe ſo well eſtabliſht it, that it hath ſince firmly continued under her Succeſſors IAMES and CHARLES. But foraſmuch as this Reformation (as has been ſaid) was induced more for intereſt of State, and to deli<g ref="char:EOLhyphen"/>ver that Kingdom from the Popes yoke, then for love of new Opinions: therefore the <hi>Engliſh</hi> did not ſo ingage themſelves to thoſe particular Opini<g ref="char:EOLhyphen"/>ons, but that they have ſince ſet themſelves to re<g ref="char:EOLhyphen"/>form the abuſe of Religion by reducing themſelves
+<pb n="4" facs="tcp:155826:5"/>again to the old practiſe of their fore-fathers. Ne<g ref="char:EOLhyphen"/>vertheleſſe this Realm is ſo perverſly addicted to maintain its own reſolute opinion of excluding the Popes Authority, that this hath been the cauſe, why the Catholicks (who for the firſt 12. yeers conformed themſelves to the policie introduced in<g ref="char:EOLhyphen"/>to the Church of <hi>England</hi>) have ſince ſeparated themſelves from it; and to teſtifie their uniting to the Pope, have refuſed to frequent the Proteſtant Churches, and thereby have framed One partie in that State <hi>England</hi> being ſo divided into Prote<g ref="char:EOLhyphen"/>ſtants and Catholicks, a conſiderable number of people by reaſon of the warres in <hi>France</hi> and the <hi>Netherlands,</hi> retired into it from thoſe Countreys with their Preachers; and being ſeaſoned and ini<g ref="char:EOLhyphen"/>tiated with the doctrine of <hi>Calvin,</hi> they judged the <hi>Engliſh</hi> Reformation but imperfect, and ſo refuſing ſubmiſſion to that form of policie, by this meanes they conſtituted a third partie, named <hi>Puritanes.</hi> Theſe Three factions are ſtill at this day in ſway. That of the <hi>Puritanes</hi> is the moſt potent, conſiſt<g ref="char:EOLhyphen"/>ing of ſome Biſhops, all the Gentry and Commi<g ref="char:EOLhyphen"/>naltie. That of the Proteſtants is compoſed of the King, almoſt all the Biſhops, and Nobilitie, and be<g ref="char:EOLhyphen"/>ſides of both the Vniverſities. The Catholicks are the leaſt in number, yet make up a partie in that
+<pb n="5" facs="tcp:155826:5"/>State ſufficiently conſiderable, becauſe the body of them is compoſed of ſuch of the Nobilitie as are moſt rich, powerfull, and ſtrong in alliance, and of no ſmall number amongſt the inferiour ſort. Now theſe three Factions in Religion, though they all op<g ref="char:EOLhyphen"/>poſe one another, yet the hatred of Proteſtants againſt Puritanes is greater, then againſt Catho<g ref="char:EOLhyphen"/>licks, and that of Catholicks is greater againſt Pu<g ref="char:EOLhyphen"/>ritanes then Proteſtants; and that of Puritanes is greater againſt Catholicks then Proteſtants. And thus both Catholicks and Proteſtants do very eaſi<g ref="char:EOLhyphen"/>ly combine together for the ruine and rooting out of Puritanes: and were it not for the intereſts of ſome great ones at Court, who ſerve themſelves by pretext of Religion to attain to their own ends, and thereupon to win their attendance have recei<g ref="char:EOLhyphen"/>ved them into protection, it would be no hard matter to ſuppreſſe, and quell the Puritanes. The Realm being in this condition there is happened a diſcord amongſt Catholicks which has diſtracted them alſo into Factions, the occaſion whereof was the pretended juriſdiction of D<hi rend="sup">r</hi>. <hi>Smith</hi> an Engliſh<g ref="char:EOLhyphen"/>man Biſhop of <hi>Chalcedon,</hi> conteſting for the power of Ordinary over all <hi>England:</hi> in which he was a<g ref="char:EOLhyphen"/>betted with the favour of al the ſecular Clergy, and all Catholicks adhering to them. The Regulars
+<pb n="6" facs="tcp:155826:6"/>hereupon and more eſpecially the Ieſuites; oppoſed themſelves, &amp; wrote divers books both ſcandalous and prejudiciall to the power of Biſhops: all which have been cenſured and condemned by the Vni<g ref="char:EOLhyphen"/>verſity of <hi>Paris:</hi> and <hi>Peter Aurelius</hi> a Doctor there has written very learnedly in confutation of the ſaid books. But this did little avail to the appeaſing of the difference, it did exaſperate rather the Regu<g ref="char:EOLhyphen"/>lars, ſo that they raiſed ſuch perſecution againſt the ſaid Biſhop, that he was faine to flye out of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> into <hi>France,</hi> and there he is ſtill reſiding. And ſince his retreat the diſſention is grown more fierce, inſomuch as the Pope taking notice thereof, and deſiring to apply ſome convenient remedie, and yet not cleerly diſcerning the truth of thoſe affairs, ſo as they were diſguiſed by the cunning and ſubtilty of each party: He then reſolved to ſend over ſome perſon by whoſe preſence upon the place he might be beſt informed of the truth for the applying of ſome expedient to thoſe broyls. Thus in the year 1634. his Holineſſe did diſpatch into <hi>England</hi> Sig<g ref="char:EOLhyphen"/>nior <hi>Gregory Panzani,</hi> a Doctor in Law and Romiſh Prieſt, and by his papal Brief dated the 10 of Octo<g ref="char:EOLhyphen"/>ber of the ſame yeer, directed to the Engliſh Cler<g ref="char:EOLhyphen"/>gy and Catholicks, he required and commanded credence to be given him in whatſoever Signiour
+<pb n="7" facs="tcp:155826:6"/>
+               <hi>Panzani</hi> on his part ſhould expoſe to them. Cardi<g ref="char:EOLhyphen"/>nall <hi>Fran Barbarini</hi> alſo to accompany his Holines Brief, ſent a Letter of his own to the ſaid Catho<g ref="char:EOLhyphen"/>licks and their Clergy, with which and his Inſtru<g ref="char:EOLhyphen"/>ctions Signior <hi>Panzani</hi> arrived at London the 25. Decemb. 1634 where he ſaluted the Queen, and afterwards the King alſo who received and treated him with much kindneſſe, telling him that He was very welcome: yea His Majeſty remained un<g ref="char:EOLhyphen"/>covered during all the diſcourſe, &amp; entertainment. He did alſo deſire conference with the Archbiſhop of <hi>Canterbury,</hi> but was put off and procraſtinated therein from day to day: ſo that at laſt He departed the Kingdom without any ſpeech had with him. From his arrivall at the time of his abode in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> He much applyed himſelf to Secretary <hi>Winde<g ref="char:EOLhyphen"/>bank,</hi> and the Lord <hi>Cottington,</hi> preſuming by the meanes of the one to maintaine himſelf in the fa<g ref="char:EOLhyphen"/>vour of the Archbiſhop and his party, and by the other to avoid the hatred of the contrary ſide. By meanes of a Friend of his He indeavoured to ſound ſome of the Engliſh Doctors of the Archbiſhops Adherents, whether or no the King would permit the reſiding of a Catholick Biſhop of the Engliſh Nation to be nominated by His Majeſty, and not to exerciſe his function, but as His Majeſty ſhould
+<pb n="8" facs="tcp:155826:7"/>limit. This Propoſition was not very pleaſing, yet after better adviſement they anſwered, that Seig<g ref="char:EOLhyphen"/>niour <hi>Panzani</hi> ſhould firſt declare, whether the Pope would allow of ſuch a Biſhop to be deſign<g ref="char:EOLhyphen"/>ed as did hold the Oath of Allegiance lawfull, or at leaſt would tolerate the taking thereof by the Catholicks. In this Seignior <hi>Panz.</hi> would not declare himſelf, excuſing it for want of Commiſ<g ref="char:EOLhyphen"/>ſion, and ſo that Treatie was interrupted. Never<g ref="char:EOLhyphen"/>theleſſe to his intimate friend on the ſecond of Octob. 1635. he declared privately that the Pope would never admit any man to govern as Biſhop that ſhould favour the Oath of Allegiance or fi<g ref="char:EOLhyphen"/>delitie: yet as to the ſaid Oath, ſome Divines of the Archbiſhops party, told the forenamed friend of <hi>Panzani,</hi> that foraſmuch as Catholicks former<g ref="char:EOLhyphen"/>ly would not take the ſaid Oath of fidelity, be<g ref="char:EOLhyphen"/>cauſe they beleeved it preiudiciall to the Popes authority, and that the Pope might not complain, that the taking of the ſaid Oath was contrary to two of his Briefs prohibiting the ſame: The King did declare that he did intend no prejudice to the Popes Spirituall Authoritie by the ſaid Oath, nor require therein any other fidelity from his Sub<g ref="char:EOLhyphen"/>jects then ſuch as God and Nature obliged them to. And this will and intention of the King
+<pb n="9" facs="tcp:155826:7"/>ſhould be publiſhed to all Catholickes, at ſuch time as the Oath ſhould be preſented. The Court of England, and the Prelates, with much zeale and paſsion, ſought to procure a tolera<g ref="char:EOLhyphen"/>tion of the ſaid Oath from the Pope; alleadg<g ref="char:EOLhyphen"/>ing, That if it were in the Kings power to change it; He would retrench all ſuch words, as ſeemed oppoſite to his Holineſſe Authority: But the ſame being conceived, and enacted ſo<g ref="char:EOLhyphen"/>lemnly in Parliament: to change, it was beyond the Kings power; yet the explication appertai<g ref="char:EOLhyphen"/>ned to His Majeſty, what the intendment there<g ref="char:EOLhyphen"/>of ſhould be; and ſo by a Declaration His Ma<g ref="char:EOLhyphen"/>jeſty would cleere, That He intended no preju<g ref="char:EOLhyphen"/>dice to the Pope. On the contrary, <hi>Panzani</hi> re<g ref="char:EOLhyphen"/>plyed; That the Oath containing ſome formall Termes, contrary to the Authority due to his Holineſſe, and the intention of the Parliament; being to oblige Subjects to ſuch fidelity as was due to Princes only; the King ought to change the ſaid Oath, and put in ſuch termes as He plea<g ref="char:EOLhyphen"/>ſed; ſo long as He altered not the Parliaments intention. Whereupon; We are to conſider deli<g ref="char:EOLhyphen"/>berately, the different intentions of theſe two Courts. That of Rome, in perpetuall purſuance
+<pb n="10" facs="tcp:155826:8"/>of its old pretences, is more ſolicitous and labo<g ref="char:EOLhyphen"/>rious to reverſe and deſtroy the ſaid Oath, be<g ref="char:EOLhyphen"/>cauſe the ſame ſeemes contrary to its temporall Grandour, than to extirpate ſuch hereſies as that Real<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e is infected with. But the aime of the Engliſh Court is to procure either an ap<g ref="char:EOLhyphen"/>probation, or toleration of the Oath from Rome, out of hope to effect thereby a reconci<g ref="char:EOLhyphen"/>liation betweene both Courts; yet not inten<g ref="char:EOLhyphen"/>ding to effect the ſame without verie great ad<g ref="char:EOLhyphen"/>vantage, and that in things contrarie to the maximes of <hi>Rome,</hi> to which that will never accord. As for example, to get permiſsion that Catholikes may indifferently frequent Proteſtant Churches; That the Papall power and dignitie ſhall be confeſſed to be only of humane right, &amp;c. And that which per<g ref="char:EOLhyphen"/>ſwades the Court of England, that the Pope may grant his approbation to the Oath, is; be<g ref="char:EOLhyphen"/>cauſe it ſeems that many of the Catholike Do<g ref="char:EOLhyphen"/>ctors, notwithſtanding any Briefs of the Pope to the contrarie; have maintained the lawful<g ref="char:EOLhyphen"/>nes of it, both with their tongues &amp; their pens. As to a reconciliation between the Churches of England and Rome, there were made ſome
+<pb n="11" facs="tcp:155826:8"/>generall propoſitions and overtures by the Arch-Biſhops Agents, they aſſuring that his Grace was verie much diſpoſed there<g ref="char:EOLhyphen"/>unto, and that if it was not accompliſht in his life time; 'twould prove a work of more difficultie after his death, that in verie truth for the laſt three yeares, the Arch-Biſhop had introduced ſome innovations approaching the rites and formes of Rome; that the Biſhop of Chicheſter, a great con<g ref="char:EOLhyphen"/>fident of his Grace, and the Lord Treaſu<g ref="char:EOLhyphen"/>rer, and eight other Biſhops of his Graces partie, did moſt paſsionately deſire a re<g ref="char:EOLhyphen"/>conciliation with the Church of Rome; that they did day by day recede from their antient Tenets' to accommodate with the Church of Rome; That therefore the Pope on his part ought to make ſome ſteps to meet them, and the Court of Rome remit ſomething of its rigour in doctrine, o<g ref="char:EOLhyphen"/>therwiſe no accord could be. And in ve<g ref="char:EOLhyphen"/>rie deed, the Vniverſities, Biſhops, and Divines of this Realme, doe daily em<g ref="char:EOLhyphen"/>brace Catholike opinions, though they
+<pb n="12" facs="tcp:155826:9"/>profeſſe not ſo much with open mouth; for ſeare of the Puritans. For example; They hold that the Church of Rome is a true Church; That the Pope is ſuperior to all Biſhops; that to him it appertaines to call generall Councels; that it is lawfull to pray for the ſoule of the departed; that Altars ought to be erected of ſtone. In ſumme; that they beleeve all that is taught by the Church; b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not by the Court of Rome.</p>
+            <p>There was likewiſe an Engliſh Doctor, that told <hi>Panzanies</hi> forementioned friend; that the King did approve of Auricular Confeſsion, and was willing to introduce it; and would uſe force to make it received; were it not for feare of ſedition amongſt the people.</p>
+            <p>Theſe affaires being ſo diſpoſed; and the Overture of a peaceable Reconciliation, ſo mature, for the treating of the ſame. Sig. <hi>Pan<g ref="char:EOLhyphen"/>zani</hi> was adviſed to ſpeake no more of the eſtabliſhment of a Catholicke Biſhop in England; that being ſo odious to the Pre<g ref="char:EOLhyphen"/>lates there: but to procure from the King
+<pb n="13" facs="tcp:155826:9"/>permiſsion for a Nuntio or Agent, from the Pope, to be addreſſed to the Queene; which without any bruit, might reconcile the two Courts.</p>
+            <p>And <hi>Panzani's</hi> forementioned friend did communicate the ſame to a perſonage, which had many friends about the King: ſo that this expedient was propoſed to the King; and by <hi>Panzani</hi> himſelfe to the Queene.</p>
+            <p>The King entred into deliberation upon it, with ſome of His moſt intimate Councel<g ref="char:EOLhyphen"/>lors; who did approve thereof: upon con<g ref="char:EOLhyphen"/>dition, That he that ſhould be ſent from the Pope ſhould be no Prieſt.</p>
+            <p>The King alſo, to ſtop the mouthes of murmurers, when this ſhould be publicke<g ref="char:EOLhyphen"/>ly rumored, ſaid in the preſence of many: Why may not I aſwell receive an Embaſſa<g ref="char:EOLhyphen"/>dor from the Pope, as I doe from other Ca<g ref="char:EOLhyphen"/>tholicke Princes? And an other time; I can now reconcile my ſelfe to the Church of Rome with much advantage.</p>
+            <pb n="14" facs="tcp:155826:10"/>
+            <p>This affaire being ſo eſtabliſhed by <hi>Pan<g ref="char:EOLhyphen"/>zani</hi> further, to cover his deſignes; and to affoord ſome ſatisfaction; both to the Po<g ref="char:EOLhyphen"/>piſh Clergy, and Regulars of England: And to teſtifie his care of the maine buſineſſe, for which he was ſent over; he did procure ſome accord betwixt the Seculars &amp; Regu<g ref="char:EOLhyphen"/>lars, by common conſent, upon the 22. Nov. 1635. where the Ieſuites alone would not come in.</p>
+            <p>Since that time <hi>Panzani</hi> did apply him<g ref="char:EOLhyphen"/>ſelfe to court the amity of the Biſhops, and Clergy of England; and particularly, of the Biſhop of Chicheſter; to whom he was pre<g ref="char:EOLhyphen"/>ſented by his old friend: by whom he did alſo careſſe others; injoyning his ſaid friend to make promiſe of Cardinalſhips, to ſuch as lived unmarried; and of penſions, to ſuch as aſpired not thereunto.</p>
+            <p>As to affaires of the Civill State; the ſaid <hi>Panzani</hi> hath uſed incredible diligence to diſcover the paſsions, inclinations, and de<g ref="char:EOLhyphen"/>pendances of the Kings Councellors; eſpe<g ref="char:EOLhyphen"/>cially,
+<pb n="15" facs="tcp:155826:10"/>of ſuch as are well affected to Spaine; and to diſcerne the inclinations of the Pre<g ref="char:EOLhyphen"/>lates, and the meanes of gaining and aſſu<g ref="char:EOLhyphen"/>ring them: as alſo all the Officers of the Princes Houſe, whoſe nameshee has all ta<g ref="char:EOLhyphen"/>ken, and entred in his memoriall.</p>
+            <p>In the month of Iuly 1636. there arrived in England as the Popes Reſident, Seig<g ref="char:EOLhyphen"/>nior <hi>George Con</hi> a Scottiſh man, Secreta<g ref="char:EOLhyphen"/>rie for the Latine tongue to Cardinall <hi>Bar<g ref="char:EOLhyphen"/>barini,</hi> who was moſt kindly entertained by the King, Queene, and all the Court: and having great acquaintance and friends; hee made much more noyſe and bruit, than <hi>Panzani</hi> had done, by giving and recei<g ref="char:EOLhyphen"/>ving viſits from a great number of the Nobilitie. Yet there is little evidence that hee ſhall advance the affaires of religion better than <hi>Panzani,</hi> becauſe of the diffi<g ref="char:EOLhyphen"/>dence of the Engliſh, to whom he ſeemes a more cunning vulpine man. And though the report is, that hee is inſinuated into the hearts of the Ieſuites, (who now
+<pb n="16" facs="tcp:155826:11"/>governe the beſt families of England) yet there is little hope of profit by that means; becauſe if the Court perceive this com<g ref="char:EOLhyphen"/>plyance; it may diminiſh the good opi<g ref="char:EOLhyphen"/>nion which is now conceived of him. For both the Arch-Biſhop and Biſhop of Chicheſter have ſaid often; that there are but two ſorts of perſons likely to impeach and hinder reconciliation, to wit, Puritans amongſt the Proteſtants, and Ieſuites a<g ref="char:EOLhyphen"/>mongſt the Catholikes.</p>
+            <p>Out of this Diſcourſe it may bee infer<g ref="char:EOLhyphen"/>red (if it be lawfull to make judgement of things future by things paſt) This Realme ſo divided into ſo many factions in matter of religion, and that of the Catholikes en<g ref="char:EOLhyphen"/>creaſing daily by the countenance of the King, will in time (as is to be feared) be troubled and torne with civill wars, which cannot faile amongſt ſo many parties, when ſome Heads ſhall once appeare to them, and ſuch will ſoone bee found amongſt the Kings children.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
